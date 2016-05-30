@@ -1,3 +1,3 @@
 # luckDraw
 luckDraw demo
-![Alt text](./rotate.png)
+![Alt text](./rotate.png=300)
